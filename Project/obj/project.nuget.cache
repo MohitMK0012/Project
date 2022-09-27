@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bADBB6mvPKG+C70G8q89y9wB7RfPaRwGliPmTpbgW+mD9i1BZa2jUgDFQ9VH0WEzEw8Cj0mqZOc+x2iuboWW/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Net Core\\Project\\Project\\Project\\Project\\Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\auth0.aspnetcore.authentication\\1.0.4\\auth0.aspnetcore.authentication.1.0.4.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.9\\microsoft.aspnetcore.authentication.openidconnect.6.0.9.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.2\\microsoft.identitymodel.jsonwebtokens.6.10.2.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.2\\microsoft.identitymodel.logging.6.10.2.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.2\\microsoft.identitymodel.protocols.6.10.2.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.2\\microsoft.identitymodel.protocols.openidconnect.6.10.2.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.2\\microsoft.identitymodel.tokens.6.10.2.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.2\\system.identitymodel.tokens.jwt.6.10.2.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\param.PARAM\\.nuget\\packages\\system.text.encodings.web\\4.5.1\\system.text.encodings.web.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
